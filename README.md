@@ -6,7 +6,7 @@ It is easy as one two three for me.
 
 - 📫 Contact me on 
 - Email : mostafa.masri@outlook.com 
-- Linkedin : https://www.linkedin.com/in/mostafa-al-massri-bb702b236/
+- Linkedin : https://www.linkedin.com/in/mostafa-al-massri-cce/
 
 <!---
 moustafa121/moustafa121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
